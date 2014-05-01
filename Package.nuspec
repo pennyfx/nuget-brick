@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Brick</id>
+    <version>1.0.0</version>
+    <authors>Mozilla</authors>
+    <owners>Mozilla</owners>
+    <licenseUrl>https://github.com/mozilla/brick/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/mozilla/brick</projectUrl>
+    <iconUrl>https://github.com/mozilla/brick</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>UI Web Components for Modern Web Apps</description>
+    <releaseNotes>Release 1.0</releaseNotes>
+    <copyright>Copyright 2014</copyright>
+    <tags>WebComponents Brick X-Tag UI Javascript</tags>    
+  </metadata>
+</package>
