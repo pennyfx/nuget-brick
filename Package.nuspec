@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>Brick</id>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <authors>Mozilla</authors>
     <owners>Mozilla</owners>
     <licenseUrl>https://github.com/mozilla/brick/blob/master/LICENSE</licenseUrl>
